@@ -1,3 +1,4 @@
+//basix static variable
 class Calcu
 {
   static void cube(int x)
